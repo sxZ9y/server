@@ -6,7 +6,7 @@ import random
 import string
 from urllib.parse import urlparse
 
-main = Flask(__name__)
+app = Flask(__name__)
 
 # -------------------------
 # DATABASE
